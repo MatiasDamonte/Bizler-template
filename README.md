@@ -1,2 +1,2 @@
-# Bizler-template
+# react-template
 Created with CodeSandbox
